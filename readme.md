@@ -1,6 +1,8 @@
 # 🎓 AI Master's Degree Notes
 This repository contains my personal notes and academic materials for my Master of Science in Artificial Intelligence.
-> ⚠️ **Disclaimer:** I do not guarantee that these notes are exhaustive, 100% complete, or free from errors. They represent my personal understanding of the lectures and materials.
+> ⚠️ **Disclaimer:** 
+> - I do not guarantee that these notes are exhaustive, 100% complete, or free from errors. They represent my personal understanding of the lectures and materials.
+> - These notes were exported from **Notion** to **Markdown**. Due to the conversion process, some Notion-specific features (such as callouts, toggles, or complex layouts) may not render perfectly or as intended on GitHub's interface.
 ## 📚 Notes Table
 | Subject | Folder / Link | Lab |Status |
 | :--- | :--- | :--- | :--- |
