@@ -4,8 +4,7 @@ This repository contains my personal notes and academic materials for my Master 
 ## 📚 Notes Table
 | Subject | Folder / Link | Status |
 | :--- | :--- | :--- |
-| **Machine Learning** | [📂 View Notes](./Semester-1/Machine-Learning) | ✅ Complete |
-| **Computer Vision** | [📂 View Notes](./Semester-1/Deep-Learning) | ⚠️ Partial |
+| **Computer Vision** | [📂 View Notes](./Notes/Computer_Vision/CV.md) | ✅ Complete |
 | **Cloud Architecture** | [📂 View Notes](./Notes/Cloud_Architecture/cloud_architecture_notes.md) | ✅ Complete |
 | **Multimedia Data Processing** | [📂 View Notes](./Notes/Multimedia_Data_Processing/multimedia_readme.md) | ✅ Complete |
 
