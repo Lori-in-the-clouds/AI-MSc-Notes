@@ -2,7 +2,7 @@
 | Title | Folder / Link |
 | :--- | :--- 
 | **1-Servizi Internet-Based** | [📄 View Notes](./Notes_Cloud/1%20Servizi%20Internet-Based.md) | 
-| **2-Architetture e Paradigmi del Cloud Computing** | [📂 View Notes](./Notes_Cloud/2%20Architetture%20e%20Paradigmi%20del%20Cloud%20Computing.md) | 
+| **2-Architetture e Paradigmi del Cloud Computing** | [📄 View Notes](./Notes_Cloud/2%20Architetture%20e%20Paradigmi%20del%20Cloud%20Computing.md) | 
 | **3-Modelli Economici** | [📄 View Notes](./Notes_Cloud/3%20Modelli%20Economici.md) | 
 | **4-Data Management** | [📄 View Notes](./Notes_Cloud/4%20Data%20Management.md) |
 | **5-Virtualizzazione** | [📄 View Notes](./Notes_Cloud/5%20Virtualizzazione.md) |
