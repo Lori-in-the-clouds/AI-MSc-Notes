@@ -19,4 +19,4 @@ This repository contains my personal notes and academic materials for my Master 
 > **🔍 Status Legend:**
 > - ✅ **Complete:** comprehensive notes covering the entire course syllabus.
 > - ⚠️ **Partial:** incomplete notes; some lectures, chapters, or specific topics may be missing.
-> - ⏳ Planned: notes for upcoming courses or subjects currently being processed.
+> - ⏳ **Planned:** notes for upcoming courses or subjects currently being processed.
