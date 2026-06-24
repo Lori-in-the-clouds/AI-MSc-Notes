@@ -10,7 +10,7 @@ This repository contains my personal notes and academic materials for my Master 
 | **☁️ Cloud Architecture** | [📂 View Notes](./Notes/Cloud_Architecture/cloud_architecture_notes.md) | [💻 Code Repo](https://github.com/Lori-in-the-clouds/Cloud_Computing) |✅ Complete |
 | **🎞️ Multimedia Data Processing** | [📂 View Notes](./Notes/Multimedia_Data_Processing/multimedia_readme.md) | [💻 Code Repo](https://github.com/Lori-in-the-clouds/Multimedia_Data_Processing) |✅ Complete |
 | **📊 Big Data and Text Analysis** | [📂 View Notes](./Notes/Big_Data_and_Text_Analysis/big_data_readme.md) |[💻 Code Repo](https://github.com/Lori-in-the-clouds/Big-Data-Lab) | ✅ Complete |
-| **📦 AI for Supply Chain** | [📂 View Notes](./Notes/Scalable_AI/scalable_AI.md) | | ⏳ Planned |
+| **📦 AI for Supply Chain** |  | | ⏳ Planned |
 | **🪜 Scalable AI** | [📂 View Notes](./Notes/Scalable_AI/scalable_AI.md) | | ✅ Complete |
 | **🎨 HMI for Digital Application** | [📂 View Notes](./Notes/HMI/hmi.md) | | ✅ Complete |
 
