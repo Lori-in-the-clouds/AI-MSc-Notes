@@ -22,5 +22,5 @@ This course provided a comprehensive overview of modern Reinforcement Learning, 
 | **15-Comparing System in Simulation** | [📄 View Notes](./Supply_Chain_Notes/15%20Comparing%20Systems%20in%20Simulation.md) |
 
 
-> 📄 **Additional Schema:**
-> - 📥 [Download / View PDF Document](./Supply_Chain_Notes/supply_chain_schema.pdf)
+### Addtional Schema
+📥 [Download / View PDF Document](./Supply_Chain_Notes/supply_chain_schema.pdf)
